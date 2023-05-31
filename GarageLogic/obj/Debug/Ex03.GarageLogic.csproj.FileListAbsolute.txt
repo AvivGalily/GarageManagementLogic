@@ -1,0 +1,7 @@
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 3\23.05\B23 Ex03 AmitCohen 316108224 AvivGalily 316431774 V2\GarageLogic\bin\Debug\Ex03.GarageLogic.dll.config
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 3\23.05\B23 Ex03 AmitCohen 316108224 AvivGalily 316431774 V2\GarageLogic\bin\Debug\Ex03.GarageLogic.dll
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 3\23.05\B23 Ex03 AmitCohen 316108224 AvivGalily 316431774 V2\GarageLogic\bin\Debug\Ex03.GarageLogic.pdb
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 3\23.05\B23 Ex03 AmitCohen 316108224 AvivGalily 316431774 V2\GarageLogic\obj\Debug\Ex03.GarageLogic.csproj.AssemblyReference.cache
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 3\23.05\B23 Ex03 AmitCohen 316108224 AvivGalily 316431774 V2\GarageLogic\obj\Debug\Ex03.GarageLogic.csproj.CoreCompileInputs.cache
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 3\23.05\B23 Ex03 AmitCohen 316108224 AvivGalily 316431774 V2\GarageLogic\obj\Debug\Ex03.GarageLogic.dll
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 3\23.05\B23 Ex03 AmitCohen 316108224 AvivGalily 316431774 V2\GarageLogic\obj\Debug\Ex03.GarageLogic.pdb

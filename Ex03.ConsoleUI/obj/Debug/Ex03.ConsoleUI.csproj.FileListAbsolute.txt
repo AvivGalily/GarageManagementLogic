@@ -1,0 +1,12 @@
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 3\23.05\B23 Ex03 AmitCohen 316108224 AvivGalily 316431774 V2\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.exe.config
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 3\23.05\B23 Ex03 AmitCohen 316108224 AvivGalily 316431774 V2\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.exe
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 3\23.05\B23 Ex03 AmitCohen 316108224 AvivGalily 316431774 V2\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.pdb
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 3\23.05\B23 Ex03 AmitCohen 316108224 AvivGalily 316431774 V2\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.dll
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 3\23.05\B23 Ex03 AmitCohen 316108224 AvivGalily 316431774 V2\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.pdb
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 3\23.05\B23 Ex03 AmitCohen 316108224 AvivGalily 316431774 V2\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.dll.config
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 3\23.05\B23 Ex03 AmitCohen 316108224 AvivGalily 316431774 V2\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 3\23.05\B23 Ex03 AmitCohen 316108224 AvivGalily 316431774 V2\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 3\23.05\B23 Ex03 AmitCohen 316108224 AvivGalily 316431774 V2\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 3\23.05\B23 Ex03 AmitCohen 316108224 AvivGalily 316431774 V2\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.CopyComplete
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 3\23.05\B23 Ex03 AmitCohen 316108224 AvivGalily 316431774 V2\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.exe
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 3\23.05\B23 Ex03 AmitCohen 316108224 AvivGalily 316431774 V2\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.pdb
